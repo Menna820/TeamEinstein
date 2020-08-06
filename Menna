@@ -1,10 +1,10 @@
-#Name:
-print"Menna Mohamed"
-#Email:
-print"menna82000@gmail.com"
-#Programming language:
-print"Python"
-#My biostack:
-print"Genomics and data analytics"
-#My slack username
-print"@Menna
+#Name
+print("Menna Mohamed")
+#Email
+print("menna82000@gmail.com")
+#Programminglanguage
+print("Python")
+#Mybiostack
+print("Genomics and data analytics")
+#Myslackusername
+print("@Menna")
